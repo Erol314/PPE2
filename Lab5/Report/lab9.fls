@@ -1,6 +1,6 @@
-PWD g:/Anul_2/semestru 2/windows programming/PPE/Lab6/Report
+PWD c:/Users/Rubikon/Desktop/Lab5/Report
 INPUT C:/Users/Rubikon/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
-INPUT g:/Anul_2/semestru 2/windows programming/PPE/Lab6/Report/lab9.tex
+INPUT c:/Users/Rubikon/Desktop/Lab5/Report/lab9.tex
 OUTPUT lab9.log
 INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
 INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
@@ -116,13 +116,11 @@ INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmb
 INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
 INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omscmr.fd
 INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omscmr.fd
-INPUT images/img21.png
-INPUT ./images/img21.png
-INPUT ./images/img21.png
-INPUT ./images/img21.png
-INPUT ./images/img21.png
-INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm
-INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT images/img221.png
+INPUT ./images/img221.png
+INPUT ./images/img221.png
+INPUT ./images/img221.png
+INPUT ./images/img221.png
 INPUT lab9.aux
 INPUT ./lab9.out
 INPUT ./lab9.out

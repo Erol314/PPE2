@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.18)  10 JUN 2018 17:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.18)  10 JUN 2018 17:10
 entering extended mode
-**"g:/Anul_2/semestru 2/windows programming/PPE/Lab6/Report/lab9.tex"
-("g:/Anul_2/semestru 2/windows programming/PPE/Lab6/Report/lab9.tex"
+**c:/Users/Rubikon/Desktop/Lab5/Report/lab9.tex
+(c:/Users/Rubikon/Desktop/Lab5/Report/lab9.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Users\Rubikon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
@@ -662,42 +662,42 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.162                 \item  W
-                              hen program starts, it takes all the todo item...
+l.166                 \item U
+                             ser have option to change the timer interval th...
 [1]
-<images/img21.png, id=24, 275.52937pt x 318.43968pt>
-File: images/img21.png Graphic file (type png)
-<use images/img21.png>
-Package pdftex.def Info: images/img21.png  used on input line 167.
-(pdftex.def)             Requested size: 384.68576pt x 444.6415pt.
- [2 <./images/img21.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 182.
+<images/img221.png, id=23, 446.41782pt x 413.29407pt>
+File: images/img221.png Graphic file (type png)
+<use images/img221.png>
+Package pdftex.def Info: images/img221.png  used on input line 174.
+(pdftex.def)             Requested size: 299.20076pt x 277.00648pt.
+ [2 <./images/img221.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 182.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
  (lab9.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 182.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 182.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
 Package rerunfilecheck Info: File `lab9.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 182.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
  ) 
 Here is how much of TeX's memory you used:
- 6725 strings out of 493305
- 103141 string characters out of 3128932
- 185750 words of memory out of 3000000
- 10200 multiletter control sequences out of 15000+200000
- 9750 words of font info for 34 fonts, out of 3000000 for 9000
+ 6720 strings out of 493305
+ 102899 string characters out of 3128932
+ 185620 words of memory out of 3000000
+ 10197 multiletter control sequences out of 15000+200000
+ 9144 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,11n,43p,488b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,11n,43p,413b,376s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Rubikon/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rubikon/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rubikon
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on lab9.pdf (4 pages, 146888 bytes).
+Output written on lab9.pdf (4 pages, 162954 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
+ 58 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

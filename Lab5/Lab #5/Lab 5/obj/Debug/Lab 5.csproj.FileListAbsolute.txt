@@ -1,0 +1,44 @@
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\obj\Debug\Lab_5.Form1.resources
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.GenerateResource.Cache
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.pdb
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 5\Lab 5\obj\Debug\Lab_5.SettingsForm.resources
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\bin\Debug\Lab 5.exe.config
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\bin\Debug\Lab 5.exe
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\bin\Debug\Lab 5.pdb
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\obj\Debug\Lab 5.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\obj\Debug\Lab_5.Form1.resources
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\obj\Debug\Lab_5.SettingsForm.resources
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\obj\Debug\Lab 5.csproj.GenerateResource.Cache
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\obj\Debug\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\obj\Debug\Lab 5.exe
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #5\Lab 5\obj\Debug\Lab 5.pdb
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\bin\Debug\Lab 5.exe.config
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\bin\Debug\Lab 5.exe
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\bin\Debug\Lab 5.pdb
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\obj\Debug\Lab 5.csprojResolveAssemblyReference.cache
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\obj\Debug\Lab_5.Form1.resources
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\obj\Debug\Lab_5.SettingsForm.resources
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\obj\Debug\Lab 5.csproj.GenerateResource.cache
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\obj\Debug\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\obj\Debug\Lab 5.exe
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #5\Lab 5\obj\Debug\Lab 5.pdb
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\bin\Debug\Lab 5.exe.config
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\bin\Debug\Lab 5.exe
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\bin\Debug\Lab 5.pdb
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\obj\Debug\Lab 5.csprojResolveAssemblyReference.cache
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\obj\Debug\Lab_5.Form1.resources
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\obj\Debug\Lab_5.SettingsForm.resources
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\obj\Debug\Lab 5.csproj.GenerateResource.cache
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\obj\Debug\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\obj\Debug\Lab 5.exe
+C:\Users\Rubikon\Desktop\Lab5\Lab #5\Lab 5\obj\Debug\Lab 5.pdb

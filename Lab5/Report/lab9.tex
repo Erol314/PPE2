@@ -45,7 +45,7 @@
 \renewcommand{\theenumii}{\arabic{enumii}}
 \setmarginsrb{3 cm}{2.5 cm}{3 cm}{2.5 cm}{1 cm}{1.5 cm}{1 cm}{1.5 cm}
 %%\setmarginsrb{hleftmargini}{htopmargini}{hrightmargini}{hbottommargini}% {hheadheighti}{hheadsepi}{hfootheighti}{hfootskipi
-\title{PPE Laboratory 6}								
+\title{PPE Laboratory 5}								
 \author{Sezgin E}							
 \makeatletter
 %%The \makeatletter command temporarily defines »@« as a normal character to enable changes to internal LaTeX macros outside packages (STY) or classes (CLS).
@@ -122,61 +122,63 @@
         \pagebreak
         %\tableofcontents
         \subsection*{Title:}
-        \subsubsection*{Developing using C\#{}. WinRT}
+        \subsubsection*{Collaboration. Complex application.}
         \subsection*{Contents:}
         \begin{itemize}
-                \item C\#{}
-                \item WinRT
+                \item Collaboration
+                \item All previously studied things
         \end{itemize}
        
         \subsection*{Mandatory Objectives:}
         \begin{itemize}
-                \item Convert a previous laboratory work to C\#{}
-                \item Create a ToDo list. Should contain: 
+                \item Animation should be controlled by controls; 
+                \item Create an application which has: 
                 \begin{itemize}
-                        \item A list of tasks;
-                        \item A way to add new tasks from UI.
+                        \item Child windows controls;
+                        \item GDI animation;
                 \end{itemize}
         \end{itemize}
 
         \subsection*{Objectives With points:}
         \begin{itemize}
-                \item Create a report;
-                \item Use WinRT;
-                \item Create a pull request with a meaningful fix/feature to 5th WP laboratory work of your colleagues. It should be a project in which you were not involved. 
+                \item Work on this project in a team of 2-4:
+                \begin{itemize}
+                        \item Divide tasks and describe them in readme (for each task indicate who is responsible for it)
+                        \item Use pull requests in order to merge your code
+                \end{itemize}
+                \item First create a sketch, then work on code;
+                \item Make it useful (you may be asked (by me) to evaluate the usefulness of your application idea) 
         \end{itemize}
 
 
         \subsection*{Tasks:}
         \begin{itemize}
-                \item (3 pt) Created a report;
-                \item (3 pt) Used WinRT.
+                \item Created an application with child window controls;
+                \item Created an application with GDI animations;
+                \item (2 pt) Used pull requests in order to merge my code       
+                \item (3 pt) Made an useful application, which improve memory
         \end{itemize}
         
         \subsection*{Short Description:}
         
         \begin{itemize}
-                \item User types a todo then presses on "Add" button to add it to the global list;
-                \item If user wants to remove or completed a task, he can double click on an item and confirm his action with a message box to delete an item from the list;
-                \item Every item is saved in a file upon addition to listbox;
-                \item  When program starts, it takes all the todo items from a file and puts them in list box.
+                \item User must match all icons in order to finish the game;
+                \item User have option to change the timer interval that hides icons, if they are not the same (this is made for those who need more time to remember icon locations);
+                \item  Game grid size can be changed from settings window that opens when user clicks on "EDIT" label on the right bottom side of window;
+                \item   If user matches all icons then application congratulates him and closes the application;
+                \item Every time application is launched, the positions and icons are randomly changed.
         \end{itemize}
     
         \begin{figure}[H]
                 \centering
-                \includegraphics[width=.9\textwidth]{img21.png}
-                \caption{The Windows application}
+                \includegraphics[width=.7\textwidth]{img221.png}
+                \caption{The C\#{} Game}
         \end{figure}
 
 \medskip
 \newpage
         \subsection*{Conclusion}
-        During This lab work i rebuild one of my previous works in C++ language (a todo list). It is much comfortable and faster to  program in C\#{} as it's ready to create forms with visual designer. Inside the window, I have a list box where I add new todo items. There is possibilities to either add or remove an item from the todo list. Every item is locally saved in a file which makes it easy to keep track it.
-\begin{thebibliography}{9}
+        During This lab worked with C\#{} It is much comfortable and faster to  program in C\#{} as it's ready to create forms with visual designer. Inside the window, I have a list box where I add new todo items. There is possibilities to either add or remove an item from the todo list. Every item is locally saved in a file which makes it easy to keep track it.
 
-        \bibitem{sec1}
-        A set of 4 articles for creating a ToDo list in WPF: part1, part2, part3, part4
-
-\end{thebibliography}
                 
 \end{document}
