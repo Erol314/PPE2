@@ -1,0 +1,158 @@
+PWD c:/Users/Rubikon/Desktop/Lab2PPe/Report
+INPUT C:/Users/Rubikon/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+INPUT c:/Users/Rubikon/Desktop/Lab2PPe/Report/lab9.tex
+OUTPUT lab9.log
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size12.clo
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size12.clo
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/utf8.def
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/utf8.def
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/t1enc.dfu
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/t1enc.dfu
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ot1enc.dfu
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ot1enc.dfu
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omsenc.dfu
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omsenc.dfu
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphicx.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphicx.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphics.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphics.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ltxmisc/parskip.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ltxmisc/parskip.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/vmargin/vmargin.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/vmargin/vmargin.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/enumerate.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/enumerate.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/caption/caption.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/caption/caption.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/caption/caption3.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/caption/caption3.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/float/float.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/float/float.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fancyhdr/fancyhdr.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fancyhdr/fancyhdr.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/hyperref.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/hyperref.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/hobsub-generic.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/hobsub-generic.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/auxhook.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/auxhook.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/pd1enc.def
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/pd1enc.def
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/00miktex/hyperref.cfg
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/00miktex/hyperref.cfg
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/url/url.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/url/url.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/hpdftex.def
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/hpdftex.def
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT lab9.aux
+INPUT lab9.aux
+OUTPUT lab9.aux
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/supp-pdf.mkii
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/supp-pdf.mkii
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/color.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/color.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/nameref.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/nameref.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/gettitlestring.sty
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/gettitlestring.sty
+INPUT lab9.out
+INPUT lab9.out
+INPUT lab9.out
+INPUT lab9.out
+INPUT ./lab9.out
+INPUT ./lab9.out
+OUTPUT lab9.out
+OUTPUT lab9.pdf
+INPUT images/LOGO_UTM.jpg
+INPUT ./images/LOGO_UTM.jpg
+INPUT ./images/LOGO_UTM.jpg
+INPUT ./images/LOGO_UTM.jpg
+INPUT ./images/LOGO_UTM.jpg
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmti12.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr8.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr6.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi8.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi6.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy8.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy6.tfm
+INPUT C:/Users/Rubikon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omscmr.fd
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omscmr.fd
+INPUT images/img1.png
+INPUT ./images/img1.png
+INPUT ./images/img1.png
+INPUT ./images/img1.png
+INPUT ./images/img1.png
+INPUT images/img3.png
+INPUT ./images/img3.png
+INPUT ./images/img3.png
+INPUT ./images/img3.png
+INPUT ./images/img3.png
+INPUT images/img2.png
+INPUT ./images/img2.png
+INPUT ./images/img2.png
+INPUT ./images/img2.png
+INPUT ./images/img2.png
+INPUT images/img4.png
+INPUT ./images/img4.png
+INPUT ./images/img4.png
+INPUT ./images/img4.png
+INPUT ./images/img4.png
+INPUT images/img5.png
+INPUT ./images/img5.png
+INPUT ./images/img5.png
+INPUT ./images/img5.png
+INPUT ./images/img5.png
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr17.tfm
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT lab9.aux
+INPUT ./lab9.out
+INPUT ./lab9.out
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb
+INPUT C:/Users/Rubikon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb
