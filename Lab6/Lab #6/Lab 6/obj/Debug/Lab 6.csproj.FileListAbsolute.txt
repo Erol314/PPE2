@@ -1,0 +1,44 @@
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\obj\Debug\Lab 6.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\obj\Debug\Lab_6.Form1.resources
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\obj\Debug\Lab_6.Properties.Resources.resources
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.GenerateResource.Cache
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\bin\Debug\Tasks.xml
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+C:\Users\Deniz\Documents\Visual Studio 2017\Projects\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\bin\Debug\Tasks.xml
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\bin\Debug\Lab 6.exe.config
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\bin\Debug\Lab 6.exe
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\bin\Debug\Lab 6.pdb
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\obj\Debug\Lab 6.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\obj\Debug\Lab_6.Form1.resources
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\obj\Debug\Lab_6.Properties.Resources.resources
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\obj\Debug\Lab 6.csproj.GenerateResource.Cache
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\obj\Debug\Lab 6.exe
+C:\Users\Deniz\Desktop\Semester 2\PPE\Lab #6\Lab 6\obj\Debug\Lab 6.pdb
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\bin\Debug\Tasks.xml
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\bin\Debug\Lab 6.exe.config
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\bin\Debug\Lab 6.exe
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\bin\Debug\Lab 6.pdb
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\obj\Debug\Lab 6.csprojResolveAssemblyReference.cache
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\obj\Debug\Lab_6.Form1.resources
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\obj\Debug\Lab_6.Properties.Resources.resources
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\obj\Debug\Lab 6.csproj.GenerateResource.cache
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\obj\Debug\Lab 6.exe
+C:\Users\Rubikon\Desktop\PPE Dincer\Lab #6\Lab 6\obj\Debug\Lab 6.pdb
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\bin\Debug\Tasks.xml
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\bin\Debug\Lab 6.exe.config
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\bin\Debug\Lab 6.exe
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\bin\Debug\Lab 6.pdb
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\obj\Debug\Lab 6.csprojResolveAssemblyReference.cache
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\obj\Debug\Lab_6.Form1.resources
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\obj\Debug\Lab_6.Properties.Resources.resources
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\obj\Debug\Lab 6.csproj.GenerateResource.cache
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\obj\Debug\Lab 6.exe
+C:\Users\Rubikon\Desktop\Lab6\Lab #6\Lab 6\obj\Debug\Lab 6.pdb
